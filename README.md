@@ -1,2 +1,2 @@
-# CRUD-BLOG
-projeto crud com PHP que incluem cadastro de notícias e usuários.
+# CRUD-WEB
+projeto WEB crud integrado a blog
